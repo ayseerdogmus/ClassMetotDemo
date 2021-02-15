@@ -27,7 +27,7 @@ namespace ClassMetotDemo
                 Id = 3,
                 FirstName = "Fatma",
                 LastName = "Fatma",
-                Age = 6,
+                Age = 2,
                 City = "İstanbul",
                 Email = "fatma@fatma.com",
                 PhoneNumber = "333333333" }
